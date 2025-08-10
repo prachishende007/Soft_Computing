@@ -1,4 +1,4 @@
-# 🧠 Soft Computing (C++ Implementation)
+# 🧠 Soft Computing 
 
 Welcome to the **Soft Computing** repository!  
 This project contains **C++ implementations** of intelligent computing techniques inspired by the human brain’s ability to deal with uncertainty, approximation, and learning.
