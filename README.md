@@ -32,15 +32,15 @@ This repository is designed for:
 
 ---
 
-
+ 📁 Repository Structure
 
 ---
 
 ## 🛠️ Technologies Used
 
 - **Language:** C++  
-- **Compiler:** g++ / clang++  
-- **Tools:** GitHub, VS Code / Code::Blocks  
+- **Compiler:** g++ 
+- **Tools:** GitHub, VS Code 
 
 ---
 
@@ -58,5 +58,4 @@ int main() {
     return 0;
 }
 
-## 📁 Repository Structure
 
