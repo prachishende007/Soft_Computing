@@ -24,8 +24,9 @@ This repository is designed for:
 
 - C++ implementations of:
   - **Fuzzy Inference Systems**
-  - **Basic Neural Networks**
-  - **Genetic Algorithms**
+  - **Particle Swarm Optimization**
+  - **Grey Wolf Optimization**
+  - **Ant Colony Optimization**
 - Modular code for **easy extension**
 - Commented source files for **better understanding**
 - Example input/output for each algorithm
