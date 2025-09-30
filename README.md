@@ -27,6 +27,7 @@ This repository is designed for:
   - **Particle Swarm Optimization**
   - **Grey Wolf Optimization**
   - **Ant Colony Optimization**
+  - **Genetic Algorithm**
 - Modular code for **easy extension**
 - Commented source files for **better understanding**
 - Example input/output for each algorithm
